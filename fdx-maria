@@ -1,0 +1,17 @@
+[33mcommit 48272c090ecd3e74d8366b90534c2e97434bd33b[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-maria-gallery[m[33m, [m[1;31morigin/feature-maria-gallery[m[33m)[m
+Author: stephenp <stephenlordson.n@gmail.com>
+Date:   Mon Mar 26 09:55:10 2018 -0700
+
+    Added picture gallery
+
+[33mcommit b92ecf8921adcf9d451ef58f2f29e22606cd81a1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: stephenp <stephenlordson.n@gmail.com>
+Date:   Mon Mar 26 09:39:28 2018 -0700
+
+    Added picture gallery
+
+[33mcommit 83904faaa22d947fcda2608c5954770b71112a29[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: stephenp <stephenlordson.n@gmail.com>
+Date:   Sun Mar 25 17:23:14 2018 -0700
+
+    Initial commit of metadata from production
